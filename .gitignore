@@ -1,0 +1,26 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos (no versionar el dataset crudo de Kaggle)
+data/raw/*.csv
+data/processed/*.csv
+
+# Sistema operativo / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Variables de entorno / credenciales
+.env
+kaggle.json

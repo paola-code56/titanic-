@@ -79,7 +79,7 @@ Al finalizar, el script genera:
   - `Title` extraído del nombre (Mr, Mrs, Miss, Master, Otro)
 - **Escalado:** `Fare` y `Age` escalados con `StandardScaler`.
 
-## Hallazgos principales (a completar tras ejecutar)
+## Hallazgos principales
 
 - Tasa de supervivencia general: 38.38%
 - Supervivencia por sexo: mujeres 74.2%, hombres 18.9%

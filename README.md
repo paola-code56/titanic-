@@ -81,12 +81,12 @@ Al finalizar, el script genera:
 
 ## Hallazgos principales (a completar tras ejecutar)
 
-- Tasa de supervivencia general: `__%`
-- Supervivencia por sexo: `__`
-- Supervivencia por clase: `__`
-- Variable con más valores nulos: `__`
+- Tasa de supervivencia general: 38.38%
+- Supervivencia por sexo: mujeres 74.2%, hombres 18.9%
+- Supervivencia por clase: 1ra 63.0%, 2da 47.3%, 3ra 24.2%
+- Variable con más valores nulos: Cabin (687 nulos), seguida de Age (177)
 
 ## Autor
 
-Nombre: _(completar)_
+Nombre: Paola Morales
 Actividad: Manejo masivo de datos - Proyecto individual (pareja: nombre del compañero)
